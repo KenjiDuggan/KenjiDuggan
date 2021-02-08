@@ -10,7 +10,7 @@
 
 Hi, I'm [Kenji Duggan!](https://blog.abhisheknaidu.tech/), a Computer Science student and a passionate self-taught Full Stack Web Developer in training, from 🚀 Canada.
 
-  <img align="right" alt="GIF" src="https://github.com/KenjiDuggan/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/KenjiDuggan/KenjiDuggan/blob/main/code.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
