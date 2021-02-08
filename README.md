@@ -7,6 +7,7 @@
 </a>
  
 <br />
+<br />
 
 Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science student and passionate self-taught Full Stack Web Developer in training, from 🚀 Canada.
 
