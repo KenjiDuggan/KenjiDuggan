@@ -15,10 +15,12 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science student and pa
 
 - 👨🏽‍💻 I’m currently working on school work :wink:;
 - 🌱 I’m currently learning Java/DataStructures&Algo + Python Flask; 
-- 💬 Ask me about anything, I am happy to answer if I can or search for solutions with you;
+- 💬 Ask me about anything, I am happy to answer if I can or search for solutions with you, would love to do live-collabs for learning new tech;
 - 📝[Resume](https://drive.google.com/file/d/18yfJOgGVOUFbUdrn8GmiO3a_UiDKjsWo/view?usp=sharing)
+<br />
 
 **Languages and Tools:**  
+
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
