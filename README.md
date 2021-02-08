@@ -16,7 +16,7 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), a Computer Science student and 
 
 - 👨🏽‍💻 I’m currently working on school work :wink:;
 - 🌱 I’m currently learning Java/DataStructures&Algo + Python Flask; 
-- 💬 Ask me about anything, I am happy to answer if I can or explore web dev tech with you;
+- 💬 Ask me about anything, I am happy to answer if I can or search for solutions with you;
 - 📝[Resume](https://drive.google.com/file/d/18yfJOgGVOUFbUdrn8GmiO3a_UiDKjsWo/view?usp=sharing)
 
 **Languages and Tools:**  
