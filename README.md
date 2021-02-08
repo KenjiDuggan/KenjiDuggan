@@ -8,7 +8,7 @@
  
 <br />
 
-Hi, I'm [Kenji Duggan!](https://blog.abhisheknaidu.tech/), a Computer Science student and a passionate self-taught Full Stack Web Developer in training, from 🚀 Canada.
+Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), a Computer Science student and a passionate self-taught Full Stack Web Developer in training, from 🚀 Canada.
 
 <img align="right" alt="GIF" src="https://github.com/KenjiDuggan/KenjiDuggan/blob/main/code.gif" width="500" height="320" />
   
@@ -18,7 +18,6 @@ Hi, I'm [Kenji Duggan!](https://blog.abhisheknaidu.tech/), a Computer Science st
 - 🌱 I’m currently learning Java/DataStructures&Algo + Python Flask; 
 - 💬 Ask me about anything, I am happy to answer if I can or explore web dev tech with you;
 - 📝[Resume](https://drive.google.com/file/d/18yfJOgGVOUFbUdrn8GmiO3a_UiDKjsWo/view?usp=sharing)
-Here are some ideas to get you started:
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
