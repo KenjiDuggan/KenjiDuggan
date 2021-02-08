@@ -8,7 +8,7 @@
  
 <br />
 
-Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), a Computer Science student and a passionate self-taught Full Stack Web Developer in training, from 🚀 Canada.
+Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science student and passionate self-taught Full Stack Web Developer in training, from 🚀 Canada.
 
 <img align="right" alt="GIF" src="https://github.com/KenjiDuggan/KenjiDuggan/blob/main/code.gif" width="500" height="320" />
   
@@ -16,7 +16,7 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), a Computer Science student and 
 
 - 👨🏽‍💻 I’m currently working on school work :wink:;
 - 🌱 I’m currently learning Java/DataStructures&Algo + Python Flask; 
-- 💬 Ask me about anything, I am happy to answer if I can or explore web dev tech with you;
+- 💬 Ask me about anything, I am happy to answer if I can or search for solutions with you;
 - 📝[Resume](https://drive.google.com/file/d/18yfJOgGVOUFbUdrn8GmiO3a_UiDKjsWo/view?usp=sharing)
 
 **Languages and Tools:**  
@@ -34,5 +34,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/KenjiDuggan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
  
+ 📈 My GitHub Stats
 
- 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KenjiDuggan&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
