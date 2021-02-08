@@ -20,7 +20,6 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science student and pa
 <br />
 
 **Languages and Tools:**  
-
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -35,7 +34,7 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science student and pa
  <br />
 
 **If you wanna tip me:**  
-
+<br />
 <a href="https://www.buymeacoffee.com/KenjiDuggan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KenjiDuggan&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
