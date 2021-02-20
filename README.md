@@ -14,7 +14,7 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science student and pa
 <img align="right" alt="GIF" src="https://github.com/KenjiDuggan/KenjiDuggan/blob/main/code.gif" width="500" height="320" />
 
 - 👨🏽‍💻 I’m currently working on school work :wink:;
-- 🌱 I’m currently learning Java/DataStructures&Algo + Python Flask; 
+- 🌱 I’m currently learning Java/DataStructures&Algo; 
 - 💬 Ask me about anything, I am happy to answer if I can or search for solutions with you, would love to do live-collabs for learning new tech;
 - 📝[Resume](https://drive.google.com/file/d/18yfJOgGVOUFbUdrn8GmiO3a_UiDKjsWo/view?usp=sharing)
 <br />
@@ -36,5 +36,4 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science student and pa
 **If you wanna tip me:**  
 <br />
 <a href="https://www.buymeacoffee.com/KenjiDuggan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
- 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KenjiDuggan&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  
