@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science student and passionate self-taught Full Stack Web Developer in training, from 🚀 Canada.
+Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science Student and passionate self-taught Full Stack Developer in training, from 🚀 Canada.
 
 <img align="right" alt="GIF" src="https://github.com/KenjiDuggan/KenjiDuggan/blob/main/code.gif" width="500" height="320" />
 
@@ -33,7 +33,5 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science student and pa
  
  <br />
 
-**If you wanna tip me:**  
-<br />
-<a href="https://www.buymeacoffee.com/KenjiDuggan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+ 
   
