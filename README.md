@@ -6,9 +6,8 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science Student and pa
 
 <img align="right" alt="GIF" src="https://github.com/KenjiDuggan/KenjiDuggan/blob/main/code.gif" width="500" height="320" />
 
-- 👨🏽‍💻 I’m currently working on school work, Java Data Structures and Algorithms :wink:;
 - 🌱 I’m currently a Web Developer at CFORP.; 
-- 📝[Resume](https://drive.google.com/file/d/18yfJOgGVOUFbUdrn8GmiO3a_UiDKjsWo/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1QqBQkCAFhWi92-7hT1oN2TaR37saKPlQ/view?usp=sharing)
 <br />
 
 **Languages and Tools:**  
