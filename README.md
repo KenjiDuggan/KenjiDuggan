@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
 
-Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science Student and passionate self-taught Full Stack Developer in training, from 🚀 Canada.
+Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science Student and self-taught Full Stack Developer in training, from 🚀 Canada.
  
 
 <img align="right" alt="GIF" src="https://github.com/KenjiDuggan/KenjiDuggan/blob/main/code.gif" width="500" height="320" />
