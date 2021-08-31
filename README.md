@@ -7,7 +7,7 @@ Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), Computer Science Student and se
 <img align="right" alt="GIF" src="https://github.com/KenjiDuggan/KenjiDuggan/blob/main/code.gif" width="500" height="320" />
 
 - 🌱 I’m currently a Web Developer at CFORP.; 
-- 📝[Resume](https://drive.google.com/file/d/1QqBQkCAFhWi92-7hT1oN2TaR37saKPlQ/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1NPJrcHY9DWG2wZr6GIha62hxAD4zRGTG/view?usp=sharing)
 <br />
 
 **Languages and Tools:**  
