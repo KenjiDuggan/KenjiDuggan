@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
 
-Hi, I'm [Kenji Duggan!](http://kenjiduggan.me/), majoring in computer sciences, I am passionate about full-stack development, from 🚀 Canada.
+Hi, I'm Kenji Duggan, majoring in computer sciences, I am passionate about full-stack development, from 🚀 Canada.
  
 
 <img align="right" alt="GIF" src="https://github.com/KenjiDuggan/KenjiDuggan/blob/main/code.gif" width="500" height="320" />
