@@ -4,9 +4,8 @@ Hi, I'm Kenji Duggan, in my last year of computer sciences, I am passionate abou
 [![Gmail Badge](https://img.shields.io/badge/-kenjiduggan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenjiduggan@gmail.com)](mailto:kenjiduggan@gmail.com)
 
 ## ⚡ Technologies
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue)
+![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -24,8 +23,7 @@ Hi, I'm Kenji Duggan, in my last year of computer sciences, I am passionate abou
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KenjiDuggan&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenjiDuggan&hide=TeX&layout=compact)
-
+ 
  
  
   
