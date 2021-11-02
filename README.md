@@ -1,7 +1,4 @@
-Hi, I'm Kenji Duggan, in my last year of computer sciences, I am passionate about full-stack development, from 🚀 Canada. I am always open to collaborating on projects and innovative/disruptive ideas.
-
-[![Linkedin Badge](https://img.shields.io/badge/-kenjiduggan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenji-duggan/)](https://www.linkedin.com/in/kenji-duggan/)
-[![Gmail Badge](https://img.shields.io/badge/-kenjiduggan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenjiduggan@gmail.com)](mailto:kenjiduggan@gmail.com)
+Hi, I'm Kenji Duggan, in my last year of computer sciences, I am passionate about full-stack development, from 🚀 Canada.
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
