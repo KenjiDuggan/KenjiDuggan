@@ -1,5 +1,3 @@
-Hi, I'm Kenji Duggan, in my last year of computer sciences, I am passionate about full-stack development, from 🚀 Canada.
-
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue.js)
