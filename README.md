@@ -7,7 +7,7 @@
 
 ##### BIO
 - 🏢 I'm currently interning at **Shopify**
--  -:books: Senior year computer science major at Concordia University;
+- :books: Senior year computer science major at Concordia University;
 - 🌍 I'm looking forward to travelling to year round warm locations
 - 🌱 Current space of interest **Backend Development** right now
  
