@@ -4,5 +4,5 @@
 
 ##### What
 - :books: Senior year computer science major 
-- 🌱 Current topics of interest: Backend development & self-development 😂
+- 🌱 Current topics of interest: Backend Development & Self Development 😂
  
