@@ -5,7 +5,7 @@ I am Kenji Duggan, I am currently pursuing my Bachelors in computer science from
 - 🌱 I’m currently learning React & Ruby on Rails.
 - 👯 I’m looking to collaborate on web development related projects.
 - 🤔 I’m looking for help with Strength Training in Montreal.
-- 🥅 2022 Goals: Proficiency in Rails & gaining 5 pounds.
+- 🥅 2022 Goals: Proficiency in Rails & gaining 5 pounds of muscle.
 - ⚡ Fun fact: I am a recent hot yoga enthusiast.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=KenjiDuggan&row=1&no-bg=true)
