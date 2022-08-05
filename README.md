@@ -7,8 +7,7 @@ I am Kenji Duggan, I am currently pursuing my Bachelors in computer science from
 - 🤔 I’m looking for help with Strength Training in Montreal.
 - 🥅 2022 Goals: Proficiency in Rails & gaining 5 pounds of muscle.
 - ⚡ Fun fact: I am a recent hot yoga enthusiast.
-  
-  <h2 align="center">⚡ Stats ⚡</h2>
+   
 <br>
 <p align=center>
   <div align=center>
