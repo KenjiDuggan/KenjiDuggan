@@ -18,7 +18,7 @@ I am Kenji Duggan, I am currently pursuing my Bachelors in computer science from
 </p>
 
 <div>
-  <h1 align=center>Public Weekend Plans:</h1>
+  <h1 align=center>Weekend Plans:</h1>
   <div>Location: Montreal</div>
   <ul>
    <li>Sat - :zap: Mudhero race</li>
