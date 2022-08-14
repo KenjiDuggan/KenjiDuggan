@@ -22,6 +22,6 @@ I am Kenji Duggan, I am currently pursuing my Bachelors in computer science from
   <div>Location: Montreal</div>
   <ul>
    <li>Sat - :zap: Mudhero race [X]</li>
-   <li>Sun - :pig_nose: Ribfest</li>
+   <li>Sun - Chill Hangout</li>
   </ul>
 </div>
