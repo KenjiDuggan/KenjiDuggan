@@ -21,7 +21,8 @@ I am Kenji Duggan, I am currently pursuing my Bachelors in computer science from
   <h1 align=center>Weekend Plans:</h1>
   <div>Location: Mtl</div>
   <ul>
+   <li>Fri - Skydiving</li>
    <li>Sat - BBQ</li>
-   <li>Sun - Skydiving!?!</li>
+   <li>Sun - Focus Pocus</li>
   </ul>
 </div>
