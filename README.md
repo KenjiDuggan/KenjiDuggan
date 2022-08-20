@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React & Ruby on Rails.
 - 👯 I’m looking to collaborate on web development related projects.
 - 🤔 I’m looking for help with Strength Training in Montreal.
-- 🥅 2022 Goals: Proficiency in Rails & gaining 10 pounds of muscle.
+- 🥅 2022 Goals: Proficiency in Rails, gaining 10 pounds of muscle and starting a small business.
 - ⚡ Fun fact: I am a recent hot yoga enthusiast.
  
 <br>
