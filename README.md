@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kenji</h1>
 
-I am Kenji Duggan, I am currently pursuing my Bachelors in computer science from Concordia University in Montreal, Quebec. I am a web developer & an aspiring entrepreneur.
- 
 - 🌱 I’m currently learning React & Ruby on Rails.
 - 👯 I’m looking to collaborate on web development related projects.
 - 🤔 I’m looking for help with Strength Training in Montreal.
-- 🥅 2022 Goals: Proficiency in Rails & gaining 5 pounds of muscle.
+- 🥅 2022 Goals: Proficiency in Rails & gaining 10 pounds of muscle.
 - ⚡ Fun fact: I am a recent hot yoga enthusiast.
  
 <br>
@@ -21,7 +19,7 @@ I am Kenji Duggan, I am currently pursuing my Bachelors in computer science from
   <h1 align=center>Weekend Plans:</h1>
   <div>Location: Mtl</div>
   <ul>
-   <li>Fri - Skydiving</li>
+   <li>Fri - Skydiving [ X ]</li>
    <li>Sat - BBQ</li>
    <li>Sun - Focus Pocus</li>
   </ul>
