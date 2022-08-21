@@ -14,13 +14,3 @@
     </a>
   </div>
 </p>
-
-<div>
-  <h1 align=center>Weekend Plans:</h1>
-  <div>Location: Mtl</div>
-  <ul>
-   <li>Fri - Skydiving [ X ]</li>
-   <li>Sat - BBQ</li>
-   <li>Sun - Focus Pocus</li>
-  </ul>
-</div>
