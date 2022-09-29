@@ -15,4 +15,3 @@
   </div>
 </p>
 
-Mont-Tremblant Hiking + School Catch Up
