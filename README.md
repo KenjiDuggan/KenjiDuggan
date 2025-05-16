@@ -37,7 +37,7 @@ AI APIs / WebSockets / Prisma / Git / CI/CD
 ## ☕ Let's Connect
 
 - 🌐 [kenjiduggan.dev](https://kenjiduggan.dev) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kenjiduggan/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kenji-duggan/)
 
 
 > “Ship things. Learn fast. Stay curious.”
