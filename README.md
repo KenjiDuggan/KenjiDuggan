@@ -11,18 +11,20 @@ Montreal-based **full-stack developer** with 4+ years of experience building use
 
 ## 🔧 Tech Stack
 
-**Languages & Frameworks**
-- JavaScript / TypeScript / Java
-- React / Node.js / Express
-- PostgreSQL / MongoDB / Redis
-- Tailwind / SCSS / Styled Components
+**Languages**  
+JavaScript / TypeScript / Java / Python / Ruby / Go / PHP / SQL / C
 
-**DevOps & Cloud**
-- AWS (EC2, S3, Lambda)
-- GCP (BigQuery, Cloud Functions)
-- Docker / GitHub Actions / Vercel / Cloudflare
+**Frameworks & Libraries**  
+React.js / Vue.js / Node.js / Express / GraphQL / REST / Tailwind CSS / SCSS
 
----
+**Platforms & Tools**  
+AWS (EC2, S3, Lambda) / GCP (BigQuery, Cloud Functions) / Docker / GitHub Actions / Nginx
+
+**Databases**  
+MySQL / PostgreSQL / MongoDB / Redis
+
+**Other**  
+AI APIs / WebSockets / Prisma / Git / CI/CD
 
 ## 🌱 Currently
 
