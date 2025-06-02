@@ -28,7 +28,8 @@ AI APIs / WebSockets / Prisma / Git / CI/CD
 
 ## 🌱 Currently
 
-- Searching for my next full-time role to advance my career while I think about the planning for a part-time Master's program in Software Engineering
+- Starting new Software Developer role at Autodesk in 2 weeks
+- Planning for a part-time Master's program in Software Engineering
 - Hacking on passion projects: intent-based meetup apps, productivity bots, and niche social platforms
 - Indulging in hobbies like BJJ, side projects, meetups, etc.
 
