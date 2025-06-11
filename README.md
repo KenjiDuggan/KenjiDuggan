@@ -27,8 +27,6 @@ MySQL / PostgreSQL / MongoDB / Redis
 AI APIs / WebSockets / Prisma / Git / CI/CD
 
 ## 🌱 Currently
-
-- Starting new Software Developer role at Autodesk in 2 weeks
 - Planning for a part-time Master's program in Software Engineering
 - Hacking on passion projects: intent-based meetup apps, productivity bots, and niche social platforms
 - Indulging in hobbies like BJJ, side projects, meetups, etc.
