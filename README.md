@@ -2,13 +2,6 @@
 
 Montreal-based **full-stack developer** with 4+ years of experience building user-first web platforms and scalable backend systems.
 
-- 🚀 Helped launch [**Buy with Prime**](https://apps.shopify.com/buy-with-prime) at Shopify in partnership with Amazon
-- 🎮 Shipped internal tools at Ubisoft and educational games at CFORP
-- 🎓 B.Sc. in Computer Science from Concordia University
-- 📚 Exploring part-time Master’s programs in Software Engineering
-
----
-
 ## 🔧 Tech Stack
 
 **Languages**  
@@ -30,9 +23,7 @@ AI APIs / WebSockets / Prisma / Git / CI/CD
 - Planning for a part-time Master's program in Software Engineering
 - Hacking on passion projects: intent-based meetup apps, productivity bots, and niche social platforms
 - Indulging in hobbies like BJJ, side projects, meetups, etc.
-
----
-
+ 
 ## ☕ Let's Connect
 
 - 🌐 [kenjiduggan-web](https://magic-portfolio-for-next-3cdlnl65l-kenjiduggans-projects.vercel.app/)
