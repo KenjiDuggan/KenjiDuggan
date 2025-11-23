@@ -19,11 +19,6 @@ MySQL / PostgreSQL / MongoDB / Redis
 **Other**  
 AI APIs / WebSockets / Prisma / Git / CI/CD
 
-## 🌱 Currently
-- Planning for a part-time Master's program in Software Engineering
-- Hacking on passion projects: intent-based meetup apps, productivity bots, and niche social platforms
-- Indulging in hobbies like BJJ, side projects, meetups, etc.
- 
 ## ☕ Let's Connect
 
 - 🌐 [kenjiduggan-web](https://magic-portfolio-for-next-3cdlnl65l-kenjiduggans-projects.vercel.app/)
