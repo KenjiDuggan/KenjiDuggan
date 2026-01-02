@@ -21,8 +21,7 @@ AI APIs / WebSockets / Prisma / Git / CI/CD
 
 ## ☕ Let's Connect
 
-- 🌐 [kenjiduggan-web](https://magic-portfolio-for-next-3cdlnl65l-kenjiduggans-projects.vercel.app/)
+- 🌐 [kenjiduggan-web](https://www.kenjiduggan.ca/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kenji-duggan/)
 
-
-> “Ship things. Learn fast. Stay curious.”
+ 
