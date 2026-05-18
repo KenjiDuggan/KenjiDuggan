@@ -1,27 +1,26 @@
-# 👋 Hey, I’m Kenji
+# hey, i'm kenji 👋
 
-Montreal-based **full-stack developer** with 4+ years of experience building user-first web platforms and scalable backend systems.
+Montreal-based software developer @ **Autodesk** — building products on the side through **[kenkolabs.io](https://kenkolabs.io)**.
 
-## 🔧 Tech Stack
+Currently shipping **[Kommon](https://www.kommon.life)** — a hyperlocal iOS app for apartment building communities. Under App Store review.
 
-**Languages**  
-JavaScript / TypeScript / Java / Python / Ruby / Go / PHP / SQL / C
+## 🛠 Tech Stack
 
-**Frameworks & Libraries**  
-React.js / Vue.js / Node.js / Express / GraphQL / REST / Tailwind CSS / SCSS
+**Languages**
+TypeScript / JavaScript / Ruby / Python / Go / SQL
 
-**Platforms & Tools**  
-AWS (EC2, S3, Lambda) / GCP (BigQuery, Cloud Functions) / Docker / GitHub Actions / Nginx
+**Frontend**
+React / React Native / Vue.js / Next.js / Tailwind CSS
 
-**Databases**  
-MySQL / PostgreSQL / MongoDB / Redis
+**Backend**
+Ruby on Rails / Node.js / Express / GraphQL / Kafka
 
-**Other**  
-AI APIs / WebSockets / Prisma / Git / CI/CD
+**Cloud & Data**
+AWS / GCP (BigQuery, Cloud Functions) / Docker / PostgreSQL / MongoDB / Redis / Airflow
 
-## ☕ Let's Connect
+## 🔗 Links
 
-- 🌐 [kenjiduggan-web](https://www.kenjiduggan.ca/)
+- 🏗 [kenkolabs.io](https://kenkolabs.io) — product studio
+- 🌐 [kenjiduggan.ca](https://www.kenjiduggan.ca)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kenji-duggan/)
-
- 
+- 🐦 [X / Twitter](https://x.com/KenjiDuggan)
